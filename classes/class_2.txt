@@ -1,0 +1,14 @@
+Gate
+//
+attributes:
+numberOfSeats (integer)
+locationOfBooth (string)
+isFull (boolean)
+gateInventory (array)
+numberOfExits (integer)
+//
+methods:
+brakeSeat (reduces numberOfSeats by 1)
+adjustBoothLocation (changes locationOfBooth)
+passengersBoardPlane (updates isFull)
+inputAdditionalBooth (adds to gateInventory)
