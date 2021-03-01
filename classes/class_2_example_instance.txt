@@ -1,0 +1,14 @@
+Gate2C
+//
+attributes:
+var numberOfSeats = 40;
+var locationOfBooth = "Middle";
+var isFull = true
+var gateInventory = ["1 Booth", "seats", "trash cans"];
+var numberOfExits = 2;
+//
+methods:
+brakeSeat: var numberOfSeats = 39;
+adjustBoothLocation: var locationOfBooth = "Far Left";
+passengersBoardPlane: var isFull = false;
+inputAdditionalBooth: var gateInventory = ["2 Booth", "seats", "trash cans"];
