@@ -1,0 +1,14 @@
+Restaurant
+//
+attributes:
+var name (string)
+var type (string)
+var isOpen (boolean)
+var rating (integer)
+var menuItems (array)
+//
+methods:
+changesOwners (updates name)
+removesMenuItem (reduces menuItems by 1)
+patronGivesBadRating (subtracts 1 from rating)
+addsMexicanFoodItems (changes type)
