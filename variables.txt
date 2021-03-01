@@ -1,0 +1,9 @@
+var movie = "Fight Club";
+movie = "Pan's Labyrinth";
+console.log(`${movie.length}`);
+var isEntertaining = true;
+var num4 = 4;
+var num6 = 6;
+var product = 24;
+var favoriteFoods = ["Mango", "Cheese", "Ice Cream"];
+var mango = favoriteFoods.shift();
