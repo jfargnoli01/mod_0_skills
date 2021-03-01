@@ -1,0 +1,14 @@
+PandaExpress
+//
+attributes:
+var name = "Panda Express"
+var type = "Chinese Food"
+var isOpen = true
+var rating = 3
+var menuItems = ["Orange Chicken", "Wontons", "Spring Rolls"]
+//
+methods:
+changesOwners: var name = "McDonalds"
+removesMenuItem: var menuItems = ["Orange Chicken", "Wontons"]
+patronGivesBadRating: var rating = 2
+addsMexicanFoodItems: var type = "Chinese and Mexican Food"
